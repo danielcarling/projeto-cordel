@@ -1,0 +1,13 @@
+#joaninha {
+   background-image: url('../imagens/background001.jpg');
+   background-size: cover;
+   background-position: center center;
+}
+
+main p {
+   background-color: white;
+}
+
+.transparente {
+   background-color: transparent;
+}
